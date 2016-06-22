@@ -1,9 +1,14 @@
 # Myboilerplate Cli
 
-Projeto criado para estudos sobre nodejs e bashrc
+Projeto criado para estudos sobre nodejs e bashrc.
 
+Ele cria um projeto usando o myboilerplate. [link do projeto myboilerplate](https://github.com/rogeralbinoi/myboilerplate)
 
-### Instalar
+## Modo de usar
+
+    myboilerplate nome-do-projeto
+
+### Instalação
 
 Dê as permissões necessárias ao arquivo install.sh
 
@@ -18,7 +23,7 @@ Rode o source no bashrc do seu usuário
     source ~/.bashrc
 
 
-### Desinstalar
+### Desinstalação
 
 Basta remover o arquivo 
 

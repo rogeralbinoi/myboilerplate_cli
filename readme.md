@@ -7,20 +7,25 @@ Projeto criado para estudos sobre nodejs e bashrc
 
 Dê as permissões necessárias ao arquivo install.sh
 
-```chmod 775 install.sh```
+    chmod 775 install.sh
 
 Rode o arquivo de instalação
 
-```./install.sh```
+    ./install.sh
 
 Rode o source no bashrc do seu usuário
 
-```source ~/.bashrc ```
+    source ~/.bashrc
+
 
 ### Desinstalar
 
-Basta remover o arquivo ```~/myboilerplate.js```, 
+Basta remover o arquivo 
 
-e apagar as linhas que contenham ```alias myboilerplate='node ~/myboilerplate.js```
+    ~/myboilerplate.js```, 
+
+e apagar as linhas que contenham 
+
+    alias myboilerplate='node ~/myboilerplate.js
 
 que são inseridas no final do arquivo ~/.bashrc

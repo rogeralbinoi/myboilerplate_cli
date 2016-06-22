@@ -29,7 +29,4 @@ Rode o source no bashrc do seu usuário
 
 ### Desinstalação
 
-Basta remover o arquivo ```~/myboilerplate.js```, 
-
-e apagar as linhas que contenham ```alias myboilerplate='node ~/myboilerplate.js``` 
-que são inseridas no final do arquivo ~/.bashrc
+Basta remover o arquivo ```~/myboilerplate.js``` e apagar as linhas que contenham ```alias myboilerplate='node ~/myboilerplate.js```  que são inseridas no final do arquivo ~/.bashrc

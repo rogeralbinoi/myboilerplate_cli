@@ -10,6 +10,10 @@ Ele cria um projeto usando o myboilerplate. [link do projeto myboilerplate](http
 
 ### Instalação
 
+Faça um clone deste projeto
+
+    git clone git@github.com:rogeralbinoi/myboilerplate_cli.git
+
 Dê as permissões necessárias ao arquivo install.sh
 
     chmod 775 install.sh
@@ -25,12 +29,7 @@ Rode o source no bashrc do seu usuário
 
 ### Desinstalação
 
-Basta remover o arquivo 
+Basta remover o arquivo ```~/myboilerplate.js```, 
 
-    ~/myboilerplate.js```, 
-
-e apagar as linhas que contenham 
-
-    alias myboilerplate='node ~/myboilerplate.js
-
+e apagar as linhas que contenham ```alias myboilerplate='node ~/myboilerplate.js``` 
 que são inseridas no final do arquivo ~/.bashrc
